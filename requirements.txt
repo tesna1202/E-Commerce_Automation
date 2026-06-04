@@ -1,0 +1,7 @@
+selenium
+pytest
+pytest-html
+openpyxl
+undetected-chromedriver
+webdriver-manager
+configparser

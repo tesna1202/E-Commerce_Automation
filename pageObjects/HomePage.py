@@ -9,7 +9,7 @@ class Homepage:
 
     def __init__(self, driver):
         self.driver = driver
-        self.wait = WebDriverWait(driver, 10)
+        self.wait = WebDriverWait(driver, 20)
 
     def myaccount(self):
         # Wait and click on 'My Account'
